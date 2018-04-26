@@ -1,0 +1,43 @@
+ul{
+color: black;
+font-size: 22px;
+font-weight: bolder;
+margin-left: 40px;
+}
+div{
+	box-sizing:border-box;
+}
+body{
+	font-family: Arial,sans-serif;
+    padding: 0;
+    margin:0;
+
+    }
+ul l{
+margin-left: 20px;
+color: white;
+}
+a.button7 {
+   font-weight: 700;
+    color: white;
+     text-decoration: none;
+      border-radius: 3px;
+        background: rgb(64,199,129);
+         box-shadow: 0 -3px rgb(53,167,110) inset;
+          transition: 0.2s;
+           display: block;
+            width: 240px;
+             padding: 20px 0;
+              margin: 0px auto;
+            text-align: center;
+          margin-top: 550px;
+        margin-right:610px;
+       margin-left: 610px;
+      font-size: 22px;
+}
+a.button7:hover { background: rgb(53, 167, 110); }
+a.button7:active {
+   background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+ text-align: center;
+}
